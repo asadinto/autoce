@@ -1,4 +1,4 @@
 # autoce
 
 
-![Screenshot](images/screenshot.png)
+![Screenshot](images/Screenshot.png)
